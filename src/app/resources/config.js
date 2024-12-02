@@ -1,4 +1,4 @@
-const baseURL = 'demo.magic-portfolio.com'
+const baseURL = 'localhost:3000'
 
 // Enable localization
 const i18n = false;
@@ -40,7 +40,7 @@ const effects = {
 }
 
 const style = {
-    theme:       'dark',         // dark | light
+    theme:       'light',         // dark | light
     neutral:     'gray',         // sand | gray | slate
     brand:       'emerald',      // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
     accent:      'indigo',       // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
